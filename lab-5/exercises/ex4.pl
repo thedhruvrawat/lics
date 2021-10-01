@@ -1,0 +1,1 @@
+sum(X,A,B) :- B is X+A.

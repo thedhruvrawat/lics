@@ -1,0 +1,1 @@
+increment(X,Y) :- X is Y + 1.
