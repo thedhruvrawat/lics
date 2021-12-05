@@ -1,0 +1,1 @@
+final(X,List) :- append(_,[X],List).
